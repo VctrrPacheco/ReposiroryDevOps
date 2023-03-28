@@ -8,7 +8,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+'colocar a imagem aqui' 
 
 > Neste projeto temos como base o desenvolvimento de um sistema onde nossos clientes poderão usufluir de processos automatizados de cadastro de contas a pagar e receber 
 que seus próprios clientes conseguirão cadastrar e fazer com que o método de consultoria seja ágil, fácil e dinâmica. 
