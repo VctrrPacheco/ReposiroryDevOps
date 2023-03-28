@@ -49,9 +49,10 @@ cadastro que solicitamos, com os seus dados cadastrado em nosso site para sua em
 ser reconhecida. 
 > Em seguida utilize nosso tutorial inicial para se localizar e se sentir mais confortável 
 na nossa nova interface, "esse tutorial fornecido contém vídeos e textos explicativos".
-```
+> Logo, assim que você completar o tutorial e adequar nosso sistema ao seu gosto você estará 
+pronto para começar a usufruir o máximo da nossa ferramenta em seu meio de consultoria empresarial.
 
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
+```
 
 
 ## 🤝 Colaboradores
@@ -62,30 +63,20 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="<!---nossa foto--->" width="100px;" alt="Foto do Victor no GitHub"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Victor Pacheco</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+        <img src="<!---outra foto aqui--->" width="100px;" alt="Foto do Kaue"/><br>
         <sub>
-          <b>Mark Zuckerberg</b>
+          <b>Kaue Rosa</b>
         </sub>
       </a>
     </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
-        <sub>
-          <b>Steve Jobs</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
 
 
 ## 😄 Seja um dos contribuidores<br>
