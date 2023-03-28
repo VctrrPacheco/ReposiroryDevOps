@@ -39,12 +39,16 @@ Windows:
 <comando_de_instalação>
 ```
 
-## ☕ Usando <nome_do_projeto>
+## Usando o Facilitador C 
 
-Para usar <nome_do_projeto>, siga estas etapas:
+Para usar Facilitator C, siga estas etapas:
 
 ```
-<exemplo_de_uso>
+> Após baixar e executar o sistema no SO selecionado pelo seu gosto > Faça o pré 
+cadastro que solicitamos, com os seus dados cadastrado em nosso site para sua empresa 
+ser reconhecida. 
+> Em seguida utilize nosso tutorial inicial para se localizar e se sentir mais confortável 
+na nossa nova interface, "esse tutorial fornecido contém vídeos e textos explicativos".
 ```
 
 Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
