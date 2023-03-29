@@ -83,9 +83,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
 
-## 📝 Licença
+## ®️Licença
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.<br>
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+
 
