@@ -59,25 +59,8 @@ pronto para começar a usufruir o máximo da nossa ferramenta em seu meio de con
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img src="<!---nossa foto--->" width="100px;" alt="Foto do Victor no GitHub"/><br>
-        <sub>
-          <b>Victor Pacheco</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="<!---outra foto aqui--->" width="100px;" alt="Foto do Kaue"/><br>
-        <sub>
-          <b>Kaue Rosa</b>
-        </sub>
-      </a>
-    </td>
-
+* Victor Pacheco de Arruda 
+* Kaue Rosa Dias 
 
 ## Seja um dos contribuidores<br>
 
