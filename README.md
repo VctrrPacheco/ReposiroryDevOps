@@ -55,7 +55,7 @@ pronto para começar a usufruir o máximo da nossa ferramenta em seu meio de con
 ```
 
 
-## 🤝 Colaboradores
+## Colaboradores
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
@@ -79,7 +79,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
 
 
-## 😄 Seja um dos contribuidores<br>
+## Seja um dos contribuidores<br>
 
 Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
 
