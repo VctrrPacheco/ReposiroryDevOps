@@ -1,4 +1,4 @@
- # Facilitator C
+ # FACILITATOR C
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 
@@ -21,7 +21,7 @@ que seus próprios clientes conseguirão cadastrar e fazer com que o método de 
 
 ## 💻 Pré-requisitos
 
-Requisitos mínimos para a utilização do sistema: 
+Requisitos mínimos para a utilização do sistema:
 
 * Possuir Windows 8.1 ou superior 64bits; 
 * Intel core i3 10105F e nvidia 1050ti;
@@ -30,7 +30,7 @@ Requisitos mínimos para a utilização do sistema:
 
 ## Auxílio básico para utilizar a plataforma 
 
-Para usar Facilitator C, siga estas etapas:
+Para usar FACILITATOR C, siga estas etapas:
 
 ```
 > Após baixar e executar o sistema no SO selecionado pelo seu gosto > Faça o pré 
